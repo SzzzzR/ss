@@ -1,6 +1,6 @@
-token= NTIzMjI5NzU4MzMxMjg5NjE5.DwQqSw.8fCYLVyIiOZE4Su7UYY6a5M9QmM
-owner= 464276425847996437 
-prefix= Sz
-game= Sz
-stayinchannel=true 
+﻿token= NDY4MDk2MzUxMzkwMTM4Mzg5.DtAZ8g.B3zz6WeXI4xmDiWuKCj6arwF6XE
+owner= 466073580073910273
+prefix= Ba
+game= Type Bahelp
+stayinchannel=true
 songinstatus=false 
