@@ -1,5 +1,5 @@
 token= NDY4MDk2MzUxMzkwMTM4Mzg5.DtAZ8g.B3zz6WeXI4xmDiWuKCj6arwF6XE
-owner= 466073580073910273
+owner= 464276425847996437
 prefix= Ba
 game= Type Bahelp
 stayinchannel=true
